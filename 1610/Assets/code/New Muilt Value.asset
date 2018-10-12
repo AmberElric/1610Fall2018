@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2b41021e2e9f2e4fb1d7a2ca588ae4e, type: 3}
   m_Name: New Muilt Value
   m_EditorClassIdentifier: 
-  Multi: {fileID: 11400000, guid: 92b94caf44c952f4595b43b8bbb68259, type: 2}
+  Value: 10

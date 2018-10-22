@@ -11,7 +11,11 @@ public class WhatCanSeeIt  : ScriptableObject
 
     private void AddHealth()
     {
+<<<<<<< HEAD
         health += 100;
+=======
+        health += 100; 
+>>>>>>> master
     }
 
     protected void AddPower()

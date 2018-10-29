@@ -14,6 +14,8 @@
           <e p="DetroyObject.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameStates.cs" t="Include" />
+          <e p="Gems.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />
           <e p="Locovars.cs" t="Include" />
@@ -25,6 +27,7 @@
           <e p="NameID.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
           <e p="ScriptAnimal.cs" t="Include" />
+          <e p="SwtichStatements.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
           <e p="varieables.cs" t="Include" />
           <e p="WhatCanSeeIt.cs" t="Include" />

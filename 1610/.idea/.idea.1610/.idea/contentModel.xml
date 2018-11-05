@@ -9,13 +9,13 @@
         <e p="code" t="Include">
           <e p="AddMoney.cs" t="Include" />
           <e p="AddValue.cs" t="Include" />
+          <e p="BasicAi.cs" t="Include" />
           <e p="ChangeColor.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="DetroyObject.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameStates.cs" t="Include" />
-          <e p="Gems.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />
           <e p="Locovars.cs" t="Include" />
